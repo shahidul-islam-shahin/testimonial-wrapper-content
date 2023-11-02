@@ -1,0 +1,94 @@
+.section-padding {
+    padding: 80px 0;
+}
+
+.section-title {
+    margin-bottom: 50px;
+}
+
+.section-title h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.testimonial-right-title {
+    display: none;
+}
+
+.testimonial-top img {
+    max-width: 120px;
+    display: inline-block;
+    margin-top: -30px;
+}
+
+.testimonial-top h3 {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-left: 25px;
+    color: #333;
+}
+
+.testimonial-top h3 span {
+    opacity: .5;
+    text-transform: none;
+    font-size: 70%;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.testimonial-top {
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.single-testimonial-item {
+    font-size: 15px;
+    color: #888;
+    line-height: 1.8;
+    box-shadow: 0 0 10px #f7f7f7;
+    padding: 70px 80px;
+}
+
+.testimonial-author-name img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.testimonial-author-name {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 360px;
+    overflow-y: scroll;
+}
+.testimonial-author-name a {
+    text-decoration: none;
+    color: #555;
+}
+
+.testimonial-author-name h3 {
+    display: inline-block;
+    font-weight: 500;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    padding-left: 10px;
+    max-width: 185px;
+}
+
+.testimonial-author-name h3 span {
+    opacity: .5;
+    text-transform: none;
+    font-size: 80%;
+    display: inline-block;
+    padding-top: 8px;
+}
+
+.testimonial-author-name li {
+    padding-top: 15px;
+    margin-bottom: 5px;
+}
